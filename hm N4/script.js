@@ -1,13 +1,3 @@
-const arr = [
-    "e",
-    "l",
-   "e",
-   "p",
-   "h",
-   "a",
-   "n",
-   "t" 
-]
+const arr = prompt("Напиши какое нибудь слово")
 
-arr.sort()
-console.log(arr)
+
